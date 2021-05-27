@@ -1,0 +1,8 @@
+{
+  "name": "pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "190d208a"
+}
